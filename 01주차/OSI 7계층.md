@@ -72,3 +72,8 @@
  * 사용자와 가장 밀접한 계층으로 인터페이스 역할
  * 응용 프로세스 간의 정보 교환을 담당
  * ex) 전자메일 , 인터넷, 동영상 플레이어 등
+
+
+
+ ## 네트워크 TCP
+  * TCP(Transmission Control Protocol)는 Transport Layer의 프로토콜 중 하나이다.
