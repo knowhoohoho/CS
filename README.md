@@ -10,4 +10,5 @@
    🚴 TCP 3-way handshake, 4-way handshake
   
 
+## :sparkles:  02주차 
 
