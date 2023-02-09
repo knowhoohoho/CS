@@ -6,7 +6,7 @@
 
 
 ## :sparkles:  01주차 (Network)
-   🚴 OSI 7계층
+   🚴 OSI 7계층   
    🚴 TCP 3-way handshake, 4-way handshake
   
 
