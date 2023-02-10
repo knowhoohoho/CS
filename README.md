@@ -11,5 +11,11 @@
   
 
 ## :sparkles:  02주차 
-   🚴
+   🚴 대칭키 & 공개키
+   🚴 HTTP & HTTPS
+   🚴 TLS/SSL handshake
+   🚴 CORS
+   🚴 REST
+   🚴 DNS
+   🚴 CSRF
    
